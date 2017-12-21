@@ -425,3 +425,18 @@ nav.opened .hamburger span {
   color: #ffffff;
 }
 }
+#menu-o .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-o.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2969b0;
+}
+#menu-o .mbr-navbar__section {
+  background: #2969b0;
+}
+#menu-o .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-q P {
+  color: #27aae0;
+}
