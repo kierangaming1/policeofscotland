@@ -266,7 +266,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/supreme_star-100x100.png",
+              "src": "@PROJECT_PATH@/assets/images/supreme-star-100x100.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -335,7 +335,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/crazyrabbitg_yt-100x100.png",
+              "src": "@PROJECT_PATH@/assets/images/crazyrabbitg-yt-100x100.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
